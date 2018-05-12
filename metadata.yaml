@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1427
     wikipedia: http://en.wikipedia.org/wiki/John_Habberton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13832#Romance-of-California-Life--13-Illustrated-by-Pacific-Slope-Stories-Thrilling-Pathetic-and-Hu_
 gutenberg_issued: '2004-10-22'
 gutenberg_type: Text
 identifiers:
