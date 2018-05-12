@@ -1,0 +1,39 @@
+_repo: Romance-of-California-Life--13-Illustrated-by-Pacific-Slope-Stories-Thrilling-Pathetic-and-Hu__13832
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Habberton, John
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1427'
+    url: http://www.gutenberg.org/2009/agents/1427
+    wikipedia: http://en.wikipedia.org/wiki/John_Habberton
+description: ''
+gutenberg_issued: '2004-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Fiction'
+- !lcc 'PS'
+tableOfContents: The schoolteacher at Bottle Flat -- Jim Hockson's revenge -- Making
+  his mark -- Codago -- The last pike at Jagger's Bend -- First prayer at Hanney's
+  -- The new sheriff of Bunker County -- Major Martt's friend -- Buffle -- Metalette's
+  section -- A story of Ten Mile Gulch -- Captain Sam's change -- Miss Fewne's last
+  conquest -- Markson's house -- Grump's pet -- Wardelow's boy -- Tom Chafflin's luck
+  -- Old Twitchett's treasure -- Blizzer's wife -- A boarding-house romance -- Retiring
+  from business -- The Hardhack mistake -- The Carmi chums -- Little Guzzy -- A romance
+  of Happy Rest -- Two powerful arguments -- Mr. Putchett's love -- The meanest man
+  at Blugsey's -- Deacon Barker's conversion -- Joe Gatter's life insurance -- The
+  temperance meeting at Backley -- Jude -- A love of a cottage -- The Bleighton rivals
+  -- Budge and Toddie at Aunt Alice's -- Sailing up stream -- Free speech.
+title: "Romance of California Life\r\nIllustrated by Pacific Slope Stories, Thrilling,\
+  \ Pathetic and Humorous"
+url: http://www.gutenberg.org/ebooks/13832
